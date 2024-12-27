@@ -58,7 +58,7 @@ pip install torch transformers pandas numpy matplotlib
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/YourUsername/Sentiment_analysis_for_YELP_reviews.git
-   cd Sentiment_analysis
+   cd Sentiment_analysis_for_YELP_reviews
    ```
 
 2. **Prepare Data**:
