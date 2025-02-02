@@ -1,6 +1,6 @@
 # Sentiment Analysis using BERT
 
-This repository contains a project that implements a transformer model using Bidirectional Encoder Representations from Transformers (BERT) for sentiment analysis based on textual reviews and star ratings. The project is the culmination of a final project for the Machine Learning Course.
+This repository implements a transformer model using Bidirectional Encoder Representations from Transformers (BERT) for sentiment analysis based on textual reviews and star ratings. The project is the culmination of a final project for the Machine Learning Course.
 
 ## Project Overview
 
